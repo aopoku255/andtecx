@@ -16,7 +16,7 @@ const Header = () => {
         items-center flex-initial"
       >
         <li className="mx-4 cursor-pointer">
-          <a href="http://127.0.0.1:3001">Market</a>
+          <a href="https://andtecx.vercel.app/">Market</a>
         </li>
         <li className="mx-4 cursor-pointer">Artist</li>
         <li className="mx-4 cursor-pointer">Features</li>
